@@ -11,7 +11,8 @@ To use this web part follow the below steps:-
 2) Install the list STP (which is available inside the repository) in your site. This list's structure is mandatory for this web part, otherwise it won't display the values inside the list.
 3) Navigate to the cloned repository folder
 4) Open your system's terminal on that folder
-5) Now run *npm install* command to install all the npm packages
+5) In your terminal, Navigate to the web part folder inside the cloned repository
+6) Now run *npm install* command to install all the npm packages
 # Output
 Below Screenshot wil be the output of this web part 
 
