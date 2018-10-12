@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "news-widget",
+    "libraryId": "4547bf44-fc9e-47cc-b358-aa31bc4fbe70",
+    "environment": "spo"
+  }
+}

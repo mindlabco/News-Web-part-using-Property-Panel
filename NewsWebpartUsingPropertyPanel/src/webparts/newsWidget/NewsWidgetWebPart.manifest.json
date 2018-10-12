@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "e1ad58c8-c00e-43b6-a8f9-96739bacf9bf",
+  "alias": "NewsWidgetWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+ 
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "news-widget" },
+    "description": { "default": "news-widget description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "listName":""
+    }
+  }]
+}
